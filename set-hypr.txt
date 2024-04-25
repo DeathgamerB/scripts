@@ -42,10 +42,10 @@ install_stage=(
     xdg-desktop-portal-hyprland 
     swappy 
     grim 
+    neofetch
     slurp 
     thunar 
     vim
-    mpv
     pamixer 
     pavucontrol 
     brightnessctl 
@@ -56,7 +56,7 @@ install_stage=(
     gvfs 
     thunar-archive-plugin 
     file-roller
-    starship 
+    fish
     papirus-icon-theme 
     ttf-jetbrains-mono-nerd 
     noto-fonts-emoji 
